@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RootsCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-03-31T11:59:09" hostname="mioszs-macbook-pro-2.home" time="0.019">
+  <properties/>
+  <testcase name="delta dodatnia, dwa rozwiązania" classname="RootsCalculatorTest" time="0.011"/>
+  <testcase name="delta 0, jedno rozwiązanie" classname="RootsCalculatorTest" time="0.001"/>
+  <testcase name="ujemna delta, zero rozwiązań" classname="RootsCalculatorTest" time="0.001"/>
+  <testcase name="równanie liniowe z 1 rozwiązaniem" classname="RootsCalculatorTest" time="0.0"/>
+  <testcase name="funkcja liniowa bez rozwiązań" classname="RootsCalculatorTest" time="0.001"/>
+  <testcase name="równanie liniowe z niesk. wieloma rozwiązaniami" classname="RootsCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

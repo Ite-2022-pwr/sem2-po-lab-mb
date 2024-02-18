@@ -1,0 +1,8 @@
+rootProject.name = 'lab4'
+include 'src:main:html-remover'
+findProject(':src:main:html-remover')?.name = 'html-remover'
+include 'src:html-removing-application'
+findProject(':src:html-removing-application')?.name = 'html-removing-application'
+include 'src:main:html-removing-application'
+findProject(':src:main:html-removing-application')?.name = 'html-removing-application'
+
